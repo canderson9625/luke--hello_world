@@ -1,0 +1,24 @@
+{
+  "name": "luke--hello_world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canderson9625/luke--hello_world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canderson9625/luke--hello_world/issues"
+  },
+  "homepage": "https://github.com/canderson9625/luke--hello_world#readme",
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
